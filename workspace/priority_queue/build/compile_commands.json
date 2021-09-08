@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/build",
+  "command": "/bin/g++-9  -I/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/include -g -save-temps -o CMakeFiles/sample.dir/main.cpp.o -c /mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/main.cpp",
+  "file": "/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/main.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/build",
+  "command": "/bin/g++-9  -I/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/include -g -save-temps -o CMakeFiles/sample.dir/src/bst.cpp.o -c /mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/src/bst.cpp",
+  "file": "/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/src/bst.cpp"
+}
+]

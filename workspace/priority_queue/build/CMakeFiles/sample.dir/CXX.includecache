@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bst.hpp
+iostream
+-
+string
+-
+list
+-
+vector
+-
+memory
+-
+
+/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/main.cpp
+bst.hpp
+/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/bst.hpp
+
+/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/src/bst.cpp
+bst.hpp
+/mnt/c/Users/Admin/Documents/Workspace/00.Study/Coursera/Algorithms_Part_I/workspace/binary_search_tree/src/bst.hpp
+
